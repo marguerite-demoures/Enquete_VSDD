@@ -24,8 +24,14 @@ Il existe plusieurs mesures de cette culture, notamment à travers des élection
 
 
 1. Nombre de musées
+   _ whichmuseum.com
+   
 2. Nombre d'activités culturelles et historiques
+   _ getyourguide.com
+  
 3. Prix moyen des billets d'entrée
+   _ getyourguide.com
+  
 4. Nombre de sites classés au patrimoine mondial
    _ Selon le classement de l'UNESCO
    
@@ -39,6 +45,7 @@ Il existe plusieurs mesures de cette culture, notamment à travers des élection
    _ Selon le site web nomadlist.com
    
 7. Nombre d'événements théâtraux
+   _ viagogo.com
 
 ## Quels sont les usages de ce jeu de données ?
 
