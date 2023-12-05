@@ -24,28 +24,28 @@ Il existe plusieurs mesures de cette culture, notamment à travers des élection
 
 
 1. Nombre de musées
-   _ whichmuseum.com
+   - whichmuseum.com
    
 2. Nombre d'activités culturelles et historiques
-   _ getyourguide.com
+   - getyourguide.com
   
 3. Prix moyen des billets d'entrée
-   _ getyourguide.com
+   - getyourguide.com
   
 4. Nombre de sites classés au patrimoine mondial
-   _ Selon le classement de l'UNESCO
+   - Selon le classement de l'UNESCO
    
 5. Nombre de restaurants étoilés
-   _ Selon le Guide Michelin qui utilise une échelle d'étoiles pour évaluer la qualité des restaurants, attribuant jusqu'à trois étoiles en fonction de l'excellence de la cuisine, de la créativité, du savoir-faire, de la qualité des ingrédients et du rapport qualité-prix. Les étoiles sont généralement attribuées de la sorte :
-     _ ⭐ Une étoile Michelin : Une très bonne table, mérite un détour.
-     _ ⭐⭐ Deux étoiles Michelin : Une excellente table, mérite le détour.
-     _ ⭐⭐⭐ Trois étoiles Michelin : Une cuisine exceptionnelle, vaut le voyage.
+   - Selon le Guide Michelin qui utilise une échelle d'étoiles pour évaluer la qualité des restaurants, attribuant jusqu'à trois étoiles en fonction de l'excellence de la cuisine, de la créativité, du savoir-faire, de la qualité des ingrédients et du rapport qualité-prix. Les étoiles sont généralement attribuées de la sorte :
+     - ⭐ Une étoile Michelin : Une très bonne table, mérite un détour.
+     - ⭐⭐ Deux étoiles Michelin : Une excellente table, mérite le détour.
+     - ⭐⭐⭐ Trois étoiles Michelin : Une cuisine exceptionnelle, vaut le voyage.
 
 6. Taux de retour des visiteurs après une première visite
-   _ Selon le site web nomadlist.com
+   - Selon le site web nomadlist.com
    
 7. Nombre d'événements théâtraux
-   _ viagogo.com
+   - viagogo.com
 
 ## Quels sont les usages de ce jeu de données ?
 
