@@ -31,8 +31,8 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
    - La ville du classement abritant le plus de musées se trouve être Londres, avec 235 musées!
 
 
-
 2. __Nombre d'activités culturelles et historiques__
+
    
    - Afin de quantifier le nombre d'activités culturelles et historiques offertes par les villes du classement, les auteurs ont décidé d'utiliser la plateforme [GetYourGuide](getyourguide.com). GetYourGuide est une plateforme en ligne populaire qui propose une variété de visites, d'activités et d'attractions aux voyageurs. Les utilisateurs peuvent parcourir et réserver des expériences dans diverses destinations à travers le monde grâce à ce site web. La plateforme couvre un large éventail d'activités, notamment des visites guidées, des billets à la carte, des excursions d'une journée, etc.
    - La ville du classement arrivant en tête de cette catégorie est Lisbonne, avec 795 activités! Paris est deuxième avec un nombre de 793, et Londres est sur la troisième marche du podium avec 791 activités culturelles et historiques.
@@ -87,14 +87,14 @@ Nous pouvons tout d'abord évidemment nous demander comment a-t-il été décid�
 2. __Nature limitée des paramètres choisis__
 
 La méthodologie se concentre principalement sur des mesures quantitatives telles que le nombre de musées, de théâtres et de sites patrimoniaux. Elle ne tient pas compte des aspects qualitatifs tels que la profondeur des expériences culturelles, le caractère unique des offres ou la diversité culturelle, qui sont subjectifs et plus difficiles à quantifier, mais essentiels pour comprendre la richesse culturelle. Une analyse qualitative au moyen d'interview ou de questionnaires de consommateurs aurait pu être ajoutée, et aurait grandement enrichi la qualité du classement selon nous.
-    - __Image incomplète__ : L'ensemble des données ne couvre pas tous les aspects de la culture de manière exhaustive. Il se concentre sur les musées, les théâtres, les sites patrimoniaux et les restaurants étoilés, mais peut omettre d'autres éléments culturels essentiels tels que les festivals locaux, l'art de la rue, les scènes musicales ou les traditions culturelles, comme évoqué précédemment.
+- __Image incomplète__ : L'ensemble des données ne couvre pas tous les aspects de la culture de manière exhaustive. Il se concentre sur les musées, les théâtres, les sites patrimoniaux et les restaurants étoilés, mais peut omettre d'autres éléments culturels essentiels tels que les festivals locaux, l'art de la rue, les scènes musicales ou les traditions culturelles, comme évoqué précédemment.
 
 
 3. __Sources et fiabilité des données__
 
 Bien que l'article mentionne ses sources concernant chaque métrique, il peut y avoir des divergences dans les méthodes de collecte des données et la fiabilité de ces sources peut varier. En outre, l'utilisation de sources aussi diversifiées pour chaque mesure peut entraîner des incohérences ou des biais dans le classement final. De plus, lors de nos recherches, nous avons trouvé plusieurs incohérences sur les sites web sourcés, notamment celui concernant le taux de retour dans la ville après une première visite : ce taux n'était pas disponible pour toutes les villes du classement, mais seulement pour certaines d'entre elles. Cela nous indiquerait-il alors que ce taux n'aurait été pris en compte que pour les villes dont la donnée était disponible? Le manque de transparence et d'informations concernant l'usage de ces données ne donne pas une très bonne image au classement.
 
-    - __Biais du sponsor ou du site__ : Les données étant attribuées majoritairement à des entreprises à but lucratif et non à des instituts de recherche, celles-ci pourraient avoir leurs propres intérêts commerciaux, ce qui pourrait influencer la sélection ou la présentation des villes. De plus, certains événements culturels pourraient ne pas être représentés si leur tickets ne sont pas vendus sur ces sites.
+- __Biais du sponsor ou du site__ : Les données étant attribuées majoritairement à des entreprises à but lucratif et non à des instituts de recherche, celles-ci pourraient avoir leurs propres intérêts commerciaux, ce qui pourrait influencer la sélection ou la présentation des villes. De plus, certains événements culturels pourraient ne pas être représentés si leur tickets ne sont pas vendus sur ces sites.
 
 
   
