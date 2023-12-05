@@ -23,7 +23,7 @@ Il existe plusieurs mesures de cette culture, notamment à travers des élection
 
 
 
-1. __Nombre de musées__
+__1. Nombre de musées__
    - whichmuseum.com
 
 
