@@ -21,9 +21,9 @@ Il existe plusieurs mesures de cette culture, notamment à travers des élection
 
 ## Quelles catégories sont utilisées pour le représenter ?
 
+Les auteurs du classement ont établi une liste de 7 métriques pour classer les villes européennes.
 
-
-__1. Nombre de musées__
+1. __Nombre de musées__
    - whichmuseum.com
 
 
@@ -52,11 +52,17 @@ __1. Nombre de musées__
 
 7. __Nombre d'événements théâtraux__
    - viagogo.com
+  
+### Méthodologie 
+
+Les auteurs ont analysé les [50 villes européennes les mieux notées](https://www.worldsbestcities.com/rankings/europes-best-cities/) et les ont comparé grâce à leur série de 7 indiacteurs. Chaque indicateur a reçu une note sur 10 pour créer l'indice final. 
 
 ## Quels sont les usages de ce jeu de données ?
 
 
 ## Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
+
+
 
 
 ## Quelles réalités ces données/indicateurs sont-ils censés représenter ?
