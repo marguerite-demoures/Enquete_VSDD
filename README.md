@@ -62,6 +62,20 @@ Les auteurs ont analysé les [50 villes européennes les mieux notées](https://
 
 ## Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
 
+Ce jeu de données concernant le top 10 des meilleures villes européennes pour la culture semble informatif, mais il s'accompagne de plusieurs limitations et critiques :
+
+1. __Subjectivité des critères de ce classement__
+2. __Paramètres limités__
+3. __Sources et fiabilité des données__
+   - ...
+  
+    
+4. __Harmonisation de la temporalité des données__
+   - L'ensemble de données n'est pas précis dans la temporalité de ces métriques: de quelle date à quelle date ont été réalisés les classements? Le mélange de sources permet la diversification des informations mais aussi un manque d’harmonisation dans les éléments, de sorte que la pertinence des informations peut varier dans le temps.
+  
+     
+5. __Manque de représentation régionale__
+   - L'ensemble des données peut être biaisé en faveur de villes européennes bien connues, négligeant potentiellement des villes plus petites ou moins populaires qui pourraient offrir des expériences culturelles tout aussi riches.
 
 
 
