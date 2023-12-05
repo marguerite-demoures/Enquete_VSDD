@@ -37,25 +37,26 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
 
 
 3. __Prix moyen des billets d'entrée__
-   - getyourguide.com
+   
+   - Concernant le prix moyen des billets d'entrée pour diverses activités, la même plateforme utilisée pour la métrique précédente a été utilisée. Dans le top 10 du classement, la ville avec l'entrée moyenne la plus chère est Londres avec 64.56€, alors que la ville présentant l'entrée la moins chère en moyenne est Lisbonne, avec 16.47€. 
 
 
-4. __Nombre de sites classés au patrimoine mondial__
+5. __Nombre de sites classés au patrimoine mondial__
    - Selon le classement de l'UNESCO
 
 
-5. __Nombre de restaurants étoilés__
+6. __Nombre de restaurants étoilés__
    - Selon le Guide Michelin qui utilise une échelle d'étoiles pour évaluer la qualité des restaurants, attribuant jusqu'à trois étoiles en fonction de l'excellence de la cuisine, de la créativité, du savoir-faire, de la qualité des ingrédients et du rapport qualité-prix. Les étoiles sont généralement attribuées de la sorte :
      - ⭐ Une étoile Michelin : Une très bonne table, mérite un détour.
      - ⭐⭐ Deux étoiles Michelin : Une excellente table, mérite le détour.
      - ⭐⭐⭐ Trois étoiles Michelin : Une cuisine exceptionnelle, vaut le voyage.
 
 
-6. __Taux de retour des visiteurs après une première visite__
+7. __Taux de retour des visiteurs après une première visite__
    - Selon le site web nomadlist.com
 
 
-7. __Nombre d'événements théâtraux__
+8. __Nombre d'événements théâtraux__
    - viagogo.com
   
 ### Méthodologie 
