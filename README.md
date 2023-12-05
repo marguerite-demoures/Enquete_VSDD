@@ -24,7 +24,10 @@ Il existe plusieurs mesures de cette culture, notamment à travers des élection
 Les auteurs du classement ont établi une liste de 7 métriques pour classer les villes européennes.
 
 1. __Nombre de musées__
-   - whichmuseum.com
+   
+   - Le nombre de musées présents dans chaque ville a été évalué à travers le site [Whichmuseum](whichmuseum.com).
+Ce site répertorie les musées afin de vous aider à trouver des musées partout dans le monde, et vous pouvez retrouver les meilleurs musées par pays dans la catégorie "Best museums". Les musées y sont triés par catégorie (art et design, histoire et anthropologie, science et technologie, nature...) ou par d'autres critères comme leur prix (ou leur gratuité), ou encore leur accessibilité aux personnes handicapées. 
+   - La ville du classement abritant le plus de musées se trouve être Londres, avec 235 musées!
 
 
 2. __Nombre d'activités culturelles et historiques__
