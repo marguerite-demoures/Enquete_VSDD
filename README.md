@@ -1,6 +1,7 @@
 # Enquête collective, Vie sociale des données 
 Camille, Louise, Marguerite, Mohammed, Rémi 
  
+<p class="text-justify"> 
 
 ## Introduction 
 ### La mesure de la culture 
@@ -96,4 +97,4 @@ Ce jeu de données concernant le top 10 des meilleures villes européennes pour 
 
 ## Quelles réalités ces données/indicateurs sont-ils censés représenter ?
 
-
+</p>
