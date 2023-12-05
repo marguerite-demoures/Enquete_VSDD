@@ -31,7 +31,9 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
 
 
 2. __Nombre d'activités culturelles et historiques__
-   - getyourguide.com
+   
+   - Afin de quantifier le nombre d'activités culturelles et historiques offertes par les villes du classement, les auteurs ont décidé d'utiliser la plateforme [GetYourGuide](getyourguide.com). GetYourGuide est une plateforme en ligne populaire qui propose une variété de visites, d'activités et d'attractions aux voyageurs. Les utilisateurs peuvent parcourir et réserver des expériences dans diverses destinations à travers le monde grâce à ce site web. La plateforme couvre un large éventail d'activités, notamment des visites guidées, des billets à la carte, des excursions d'une journée, etc.
+   - La ville du classement arrivant en tête de cette catégorie est Lisbonne, avec 795 activités! Paris est deuxième avec un nombre de 793, et Londres est sur la troisième marche du podium avec 791 activités culturelles et historiques.
 
 
 3. __Prix moyen des billets d'entrée__
