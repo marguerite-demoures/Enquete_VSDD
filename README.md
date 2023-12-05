@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
-# Enquete_VSDD
+# Enquête collective, Vie sociale des données 
+Camille, Louise, Marguerite, Mohammed, Rémi 
+
+
 ## Introduction
 
 ## 1. Qui a créé ce jeu de données ? À quelles fins ?
