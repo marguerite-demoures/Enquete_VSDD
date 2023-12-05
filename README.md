@@ -30,10 +30,12 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
    - La ville du classement abritant le plus de musées se trouve être Londres, avec 235 musées!
 
 
+
 2. __Nombre d'activités culturelles et historiques__
    
    - Afin de quantifier le nombre d'activités culturelles et historiques offertes par les villes du classement, les auteurs ont décidé d'utiliser la plateforme [GetYourGuide](getyourguide.com). GetYourGuide est une plateforme en ligne populaire qui propose une variété de visites, d'activités et d'attractions aux voyageurs. Les utilisateurs peuvent parcourir et réserver des expériences dans diverses destinations à travers le monde grâce à ce site web. La plateforme couvre un large éventail d'activités, notamment des visites guidées, des billets à la carte, des excursions d'une journée, etc.
    - La ville du classement arrivant en tête de cette catégorie est Lisbonne, avec 795 activités! Paris est deuxième avec un nombre de 793, et Londres est sur la troisième marche du podium avec 791 activités culturelles et historiques.
+
 
 
 3. __Prix moyen des billets d'entrée__
@@ -41,23 +43,30 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
    - Concernant le prix moyen des billets d'entrée pour diverses activités, la même plateforme utilisée pour la métrique précédente a été utilisée. Dans le top 10 du classement, la ville avec l'entrée moyenne la plus chère est Londres avec 64.56€, alors que la ville présentant l'entrée la moins chère en moyenne est Lisbonne, avec 16.47€. 
 
 
-5. __Nombre de sites classés au patrimoine mondial__
-   - Selon le classement de l'UNESCO
+4. __Nombre de sites classés au patrimoine mondial__
+   
+   - Cette catégorie a été établie à travers le patrimoine mondial de l'UNESCO. 
 
 
-6. __Nombre de restaurants étoilés__
+5. __Nombre de restaurants étoilés__
+   
    - Selon le Guide Michelin qui utilise une échelle d'étoiles pour évaluer la qualité des restaurants, attribuant jusqu'à trois étoiles en fonction de l'excellence de la cuisine, de la créativité, du savoir-faire, de la qualité des ingrédients et du rapport qualité-prix. Les étoiles sont généralement attribuées de la sorte :
      - ⭐ Une étoile Michelin : Une très bonne table, mérite un détour.
      - ⭐⭐ Deux étoiles Michelin : Une excellente table, mérite le détour.
      - ⭐⭐⭐ Trois étoiles Michelin : Une cuisine exceptionnelle, vaut le voyage.
 
 
-7. __Taux de retour des visiteurs après une première visite__
-   - Selon le site web nomadlist.com
+6. __Taux de retour des visiteurs après une première visite__
+   
+   - Ce taux de retour a été trouvé sur le site web [NomadList](nomadlist.com). Nomad List est un site web qui fournit des informations et des outils aux "nomades numériques" et aux travailleurs à distance. Le site offre des informations sur différentes villes du monde, aidant les individus à choisir des destinations basées sur des facteurs tels que le coût de la vie, la vitesse d'Internet, la météo et d'autres critères pertinents pour le travail à distance.
+   - Les utilisateurs peuvent accéder à des informations sur différentes villes, y compris des détails sur les espaces de coworking, la sécurité, les soins de santé, etc. Nomad List a pour but d'aider les gens à trouver des lieux adaptés à leurs préférences en matière de travail et de mode de vie.
+   - Ceci dit, on y trouve également un pourcentage de taux de retour des visiteurs par ville. Par exemple, pour la ville de Paris, le site indique un taux de 15% de retour dans la ville après une première visite, contre 13% pour Vienne.
 
 
-8. __Nombre d'événements théâtraux__
-   - viagogo.com
+7. __Nombre d'événements théâtraux__
+   
+   - La quantification de cette septième et dernière métrique s'est faite par la plateforme [Viagogo](viagogo.com). Viagogo est un marketplace en ligne qui permet d'acheter et de vendre des billets pour divers événements, notamment des concerts, des manifestations sportives, des représentations théâtrales, etc. Les utilisateurs peuvent naviguer sur la plateforme pour trouver des billets pour des événements spécifiques et les acheter aux vendeurs.
+   - Il est important de noter que Viagogo a fait l'objet de controverses et de critiques dans le passé, notamment en ce qui concerne la transparence, les prix et la revente de billets. Certains consommateurs ont fait état d'expériences négatives avec la plateforme.
   
 ### Méthodologie 
 
