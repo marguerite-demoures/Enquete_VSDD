@@ -16,18 +16,36 @@ Par ailleurs, l'UNESCO a également établi plusieurs listes visant à protéger
 Il existe plusieurs mesures de cette culture, notamment à travers des élections officielles comme l’élection de la capitale culturelle européenne ou d’autres classements à différentes échelles (nationale, européenne, continentale, mondiale...). Nous nous pencherons ici sur un classement publié par le bureau d’Amsterdam de l'entreprise Le Hub Social. 
 
 
-## 1. Qui a créé ce jeu de données ? À quelles fins ?
+## Qui a créé ce jeu de données ? À quelles fins ?
 
 
-## 2. Quelles catégories sont utilisées pour le représenter ?
+## Quelles catégories sont utilisées pour le représenter ?
 
 
-## 3. Quels sont les usages de ce jeu de données ?
+
+1. Nombre de musées
+2. Nombre d'activités culturelles et historiques
+3. Prix moyen des billets d'entrée
+4. Nombre de sites classés au patrimoine mondial
+   _ Selon le classement de l'UNESCO
+   
+5. Nombre de restaurants étoilés
+   _ Selon le Guide Michelin qui utilise une échelle d'étoiles pour évaluer la qualité des restaurants, attribuant jusqu'à trois étoiles en fonction de l'excellence de la cuisine, de la créativité, du savoir-faire, de la qualité des ingrédients et du rapport qualité-prix. Les étoiles sont généralement attribuées de la sorte :
+     _ ⭐ Une étoile Michelin : Une très bonne table, mérite un détour.
+     _ ⭐⭐ Deux étoiles Michelin : Une excellente table, mérite le détour.
+     _ ⭐⭐⭐ Trois étoiles Michelin : Une cuisine exceptionnelle, vaut le voyage.
+
+6. Taux de retour des visiteurs après une première visite
+   _ Selon le site web nomadlist.com
+   
+7. Nombre d'événements théâtraux
+
+## Quels sont les usages de ce jeu de données ?
 
 
-## 4. Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
+## Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
 
 
-## 5. Quelles réalités ces données/indicateurs sont-ils censés représenter ?
+## Quelles réalités ces données/indicateurs sont-ils censés représenter ?
 
 
