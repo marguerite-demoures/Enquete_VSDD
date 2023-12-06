@@ -127,16 +127,14 @@ Voici le tableau partagé par The Social Hub :
 
 ## Les usages du jeu de donnée
 
-<div 
-style="text-align: 
-justify">
+
    
 <br> 
 Le classement est une publication récente (juin 2023) qui suscite pour l’instant assez peu de réactions.
 
 <br>
 
-Pour l’essentiel, il est discuté par une poignée de sites et médias consacrés à Londres, pour mentionner, sans rentrer dans les détails, que la ville remporte la première place. Ainsi le classement fait l’objet d’un article sur le site du [London Daily News](https://www.londondaily.news/europes-best-cities-for-culture/), sur le blog de tourisme anglais [That’s Up](https://thatsup.co.uk/london/article/london-is-crowned-europes-top-city-for-culture/), et sur le blog de voyage, [TimeOut](https://www.timeout.com/london/news/london-has-been-crowned-the-best-city-in-europe-for-culture-062323). Ce dernier répertorie une centaine de villes, mais l’article sur le classement de Social Hub n’apparaît que dans la section « Londres » du site. Le classement est donc essentiellement mobilisé comme une marque de prestige pour la ville.
+<p align="justify">Pour l’essentiel, il est discuté par une poignée de sites et médias consacrés à Londres, pour mentionner, sans rentrer dans les détails, que la ville remporte la première place. Ainsi le classement fait l’objet d’un article sur le site du [London Daily News](https://www.londondaily.news/europes-best-cities-for-culture/), sur le blog de tourisme anglais [That’s Up](https://thatsup.co.uk/london/article/london-is-crowned-europes-top-city-for-culture/), et sur le blog de voyage, [TimeOut](https://www.timeout.com/london/news/london-has-been-crowned-the-best-city-in-europe-for-culture-062323). Ce dernier répertorie une centaine de villes, mais l’article sur le classement de Social Hub n’apparaît que dans la section « Londres » du site. Le classement est donc essentiellement mobilisé comme une marque de prestige pour la ville.</p>
 
 <br>
 
