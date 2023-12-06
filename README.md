@@ -138,7 +138,7 @@ Pour l’essentiel, il est discuté par une poignée de sites et médias consacr
 
 <br>
 
-<p align="justify">L’article du LDN titre "Study reveals best cities for culture". La formulation est intéressante : par contraste avec d’autres articles utilisant le mot « crowned » – qui connote plutôt l’idée d’un choix réalisé par une entité – le mot "reveals" implique l’idée qu’une hiérarchie des villes préexiste à l’étude, qui vient « révéler » cette réalité objective.</p>
+<p align="justify">L’article du LDN titre "Study reveals best cities for culture". La formulation est intéressante : par contraste avec d’autres articles utilisant le mot "crowned" – qui connote plutôt l’idée d’un choix réalisé par une entité – le mot "reveals" implique l’idée qu’une hiérarchie des villes préexiste à l’étude, qui vient « révéler » cette réalité objective.</p>
 
 <br>
 
@@ -148,7 +148,7 @@ Pour l’essentiel, il est discuté par une poignée de sites et médias consacr
 <br>
 
 
-<p align="justify">L’article ne livre pas d’analyse politique explicite, mais on peut y lire une piqûre émotionnelle à la fierté française. On y retrouve la dynamique explorée par la géopolitologue Béatrice Giblin dans son livre *Le Paradoxe Français, entre fierté nationale et hantise du déclin* (2017) : le patriotisme à la française prend souvent la forme d’une réassertion constante et inquiète de son "exceptionnalisme culturel". </p> 
+<p align="justify">L’article ne livre pas d’analyse politique explicite, mais on peut y lire une piqûre émotionnelle à la fierté française. On y retrouve la dynamique explorée par la géopolitologue Béatrice Giblin dans son livre Le Paradoxe Français, entre fierté nationale et hantise du déclin (2017) : le patriotisme à la française prend souvent la forme d’une réassertion constante et inquiète de son "exceptionnalisme culturel". </p> 
 
 
 ## Limites et critiques 
