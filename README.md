@@ -129,6 +129,12 @@ Les données et indicateurs présentés dans ce classement sont censés représe
 Globalement, ce classement vise à guider les voyageurs désireux de découvrir des expériences culturelles en mettant en avant des villes connues pour leur importance historique, leur richesse artistique et la diversité de leurs activités culturelles. L'objectif est d'offrir aux voyageurs un aperçu des villes qui excellent dans l'offre d'expériences culturelles diverses, répondant aux intérêts pour l'art, l'histoire, le théâtre, la gastronomie, et plus encore. Les données utilisées visent à aider les passionnés de culture à planifier leurs voyages en présentant des villes offrant un large éventail d'attractions et d'expériences culturelles. Ce classement reflète une sélection de villes basée sur des aspects culturels spécifiques mesurés par les paramètres fournis, dans le but de guider les voyageurs à la recherche d'expériences culturelles immersives au cours de leurs aventures européennes.
 
 
+## Bibliographie
+
+sources
+
+## Camille Delmotte, Marguerite Demoures, Louise Lejeune, Mohamed Mebarki, et Remi Guezofje.
+
 
 
 
