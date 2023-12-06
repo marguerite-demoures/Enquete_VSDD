@@ -93,13 +93,11 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
    - Il est important de noter que Viagogo a fait l'objet de controverses et de critiques dans le passé, notamment en ce qui concerne la transparence, les prix et la revente de billets. Certains consommateurs ont fait état d'expériences négatives avec la plateforme.
   
 ### Méthodologie 
-<div 
-style="text-align: 
-justify">
+
 
 Les auteurs ont analysé les [50 villes européennes les mieux notées](https://www.worldsbestcities.com/rankings/europes-best-cities/) et les ont comparé grâce à leur série de 7 indiacteurs. Chaque indicateur a reçu une note sur 10 pour créer l'indice final. 
 
-</div>
+
 
 ### Résultats 
 
