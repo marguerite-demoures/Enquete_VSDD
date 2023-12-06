@@ -19,6 +19,11 @@ Il existe plusieurs mesures de cette culture, notamment à travers des élection
 
 ## Qui a créé ce jeu de données ? À quelles fins ?
 
+The Social Hub, anciennement The Student Hotel, est une chaîne d'hôtels qui revendique un modèle d'"hospitalité hybride". La restriction de leur classement aux villes européennes peut s'expliquer par leur envie d'inciter au tourisme en Europe, dans des villes où la chaîne est implantée, ce qui représente donc un atout commercial pour eux. L'introduction du classement est formulée ainsi :
+
+> If you’re the kind of traveller who likes to take full advantage of the cultural offerings in whatever new city you’re exploring, this one’s for you. We’ve put together a list of Europe’s top cultural hotspots for your next trip, taking you on a tour of the very best gems the continent has to offer.
+
+Une accroche dynamique qui permettrait les voyageurs à déjà envisager leur prochain voyage à la suite de leur lecture du classement.
 
 ## Quelles catégories sont utilisées pour le représenter ?
 
