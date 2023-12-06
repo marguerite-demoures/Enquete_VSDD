@@ -1,6 +1,8 @@
 # Enquête collective, Vie sociale des données 
 
-<div style="text-align: right">
+<div 
+style="text-align: 
+right">
 
 
 ## Introduction 
