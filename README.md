@@ -40,11 +40,12 @@ The Social Hub, anciennement The Student Hotel, est une chaîne d'hôtels qui re
 
 > If you’re the kind of traveller who likes to take full advantage of the cultural offerings in whatever new city you’re exploring, this one’s for you. We’ve put together a list of Europe’s top cultural hotspots for your next trip, taking you on a tour of the very best gems the continent has to offer.
 
-Une accroche dynamique qui permettrait les voyageurs à déjà envisager leur prochain voyage à la suite de leur lecture du classement.
+Une accroche dynamique qui permettrait aux voyageurs de déjà envisager leur prochain voyage suite à leur lecture du classement.
 
 ## Quelles catégories sont utilisées pour le représenter ?
 
-Les auteurs du classement ont établi une liste de 7 métriques pour classer les villes européennes.
+Les auteurs du classement ont établi une liste de 7 métriques pour classer les villes européennes:
+
 
 1. __Nombre de musées__
 
@@ -187,6 +188,7 @@ justify">
 
 Les données et indicateurs présentés dans ce classement sont censés représenter la richesse culturelle des villes européennes. Les auteurs ont utilisé plusieurs critères quantitatifs pour évaluer la diversité et l'intensité des expériences culturelles offertes par chaque ville. Les réalités que ces données sont censées représenter incluent plusieurs perspectives. Nous retrouvons d'abord l'abondance des institutions culturelles de par lee nombre de musées, d'activités culturelles et historiques, ainsi que le nombre de sites classés au patrimoine mondial, qui sont des indicateurs visant à mesurer la présence d'institutions culturelles dans chaque ville. Ensuite, le prix moyen des billets d'entrée permet d'évaluer l'accessibilité financière aux activités culturelles, offrant ainsi une perspective sur la disponibilité culturelle pour différents budgets. Le nombre de restaurants étoilés par le Guide Michelin donne une indication sur la qualité de la scène gastronomique de chaque ville. Le taux de retour des visiteurs après une première visite reflète l'attrait persistant d'une ville, indiquant si les expériences culturelles initiales ont incité les visiteurs à revenir, ou non. Enfin, le nombre d'événements théâtraux mesuré par la plateforme Viagogo offre un aperçu de la vie théâtrale de chaque ville.
 </div>
+
 
 <div 
 style="text-align: 
