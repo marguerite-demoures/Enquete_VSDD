@@ -97,9 +97,14 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
 
 Les auteurs ont analysé les [50 villes européennes les mieux notées](https://www.worldsbestcities.com/rankings/europes-best-cities/) et les ont comparé grâce à leur série de 7 indiacteurs. Chaque indicateur a reçu une note sur 10 pour créer l'indice final. 
 
+Pour référence, voici les catégories utilisées par le site web WorldsBestCities pour l'établissement de leur propre classement : 
+
+<img width="821" alt="categories" src="https://github.com/camilledlmt/Enquete_VSDD/assets/146014469/a9275c9b-6d16-4a0d-9ab4-563aad29a817">
 
 
 ### Résultats 
+
+Voici le tableau partagé par The Social Hub :
 
 <img width="641" alt="results" src="https://github.com/camilledlmt/Enquete_VSDD/assets/146014469/b139f3c0-9560-4c74-ba76-edb61c48411f">
 
@@ -108,6 +113,7 @@ Les auteurs ont analysé les [50 villes européennes les mieux notées](https://
 
 
 ## Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
+<img width="821" alt="categories" src="https://github.com/camilledlmt/Enquete_VSDD/assets/146014469/783f085e-611f-45ff-84e7-b34864d637a0">
 
 <div 
 style="text-align: 
