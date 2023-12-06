@@ -14,7 +14,7 @@ De nombreuses définitions structurent son sens, plus ou moins officiellement. L
 > La culture, dans son sens le plus large, est considérée comme l'ensemble des traits distinctifs, spirituels et matériels, intellectuels et affectifs, qui caractérisent une société ou un groupe social. Elle englobe, outre les arts et les lettres, les modes de vie, les droits fondamentaux de l'être humain, les systèmes de valeurs, les traditions et les croyances.
 Par ailleurs, l'UNESCO a également établi plusieurs listes visant à protéger et à promouvoir le patrimoine culturel immatériel à travers le monde, la plus connue étant la Liste représentative du patrimoine culturel immatériel de l'humanité.
 
-Il existe plusieurs mesures de cette culture, notamment à travers des élections officielles comme l’élection de la capitale culturelle européenne ou d’autres classements à différentes échelles (nationale, européenne, continentale, mondiale...). Nous nous pencherons ici sur un classement publié par le bureau d’Amsterdam de l'entreprise Le Hub Social. 
+Il existe plusieurs mesures de cette culture, notamment à travers des élections officielles comme l’élection de la capitale culturelle européenne ou d’autres classements à différentes échelles (nationale, européenne, continentale, mondiale...). Nous nous pencherons ici sur un classement publié par le bureau d’Amsterdam de l'entreprise Le Hub Social, The Social Hub en anglais, intitulé "Europe’s Top 10 Cities for Culture", publié le 15 Juin 2023.
 
 
 ## Qui a créé ce jeu de données ? À quelles fins ?
