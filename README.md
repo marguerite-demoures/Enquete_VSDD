@@ -183,10 +183,14 @@ style="text-align:
 justify">
 
 La méthodologie se concentre principalement sur des mesures quantitatives telles que le nombre de musées, de théâtres et de sites patrimoniaux. Elle ne tient pas compte des aspects qualitatifs tels que la profondeur des expériences culturelles, le caractère unique des offres ou la diversité culturelle, qui sont subjectifs et plus difficiles à quantifier, mais essentiels pour comprendre la richesse culturelle. Une analyse qualitative au moyen d'interview ou de questionnaires de consommateurs aurait pu être ajoutée, et aurait grandement enrichi la qualité du classement selon nous.
-
+</div>
 <br> 
 
-_Image incomplète_ : L'ensemble des données ne couvre pas tous les aspects de la culture de manière exhaustive. Il se concentre sur les musées, les théâtres, les sites patrimoniaux et les restaurants étoilés, mais peut omettre d'autres éléments culturels essentiels tels que les festivals locaux, l'art de la rue, les scènes musicales ou les traditions culturelles, comme évoqué précédemment.
+_Image incomplète_ : 
+<div 
+style="text-align: 
+justify">
+L'ensemble des données ne couvre pas tous les aspects de la culture de manière exhaustive. Il se concentre sur les musées, les théâtres, les sites patrimoniaux et les restaurants étoilés, mais peut omettre d'autres éléments culturels essentiels tels que les festivals locaux, l'art de la rue, les scènes musicales ou les traditions culturelles, comme évoqué précédemment.
 
 </div>
 
