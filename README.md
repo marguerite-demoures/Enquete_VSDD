@@ -203,11 +203,36 @@ Globalement, ce classement vise à guider les voyageurs désireux de découvrir 
 
 </div>
 
+## Interrogations 
+
+<div 
+style="text-align: 
+justify">
+
+Nous avons contacté diverses personnes dans l'espoir de conduire un ou plusieurs entretiens pour nous aider à construire notre réflexion. Cependant, nous sommes encore dans l'attente de réponses ou de date fixe pour un entretien. Nous sommes notamment en contact avec Robert Lacombe, sous-directeur de la création artistique à la ville de Paris, mais n'avons pas pu fixer une date avant la date limite du rendu de l'enquête collective. Nous avons également contacté un autre organisme ayant publié un classement similaire, et une personne travaillant pour des pratiques culturelles non-représentées (le festival et les jardins publics), sans réponse. 
+
+</div>
+
+<div 
+style="text-align: 
+justify">
+
+Cependant, nous souhaitons tout de même partager avec vous les questionnements que nous avions déjà formulés dans l'optique de ces entretiens, et qui nous semblent très pertinents de poser dans le cas de notre enqûete collective. 
+
+Nous avions pour but de débuter nos entretiens avec des questions générales portant sur le contexte de la quantification de la culture, comme l'importance de la culture ainsi que sa mesure dans les villes. Par la suite, si nous avions réussi à rentrer en contact avec les créateurs du classement de The Social Hub, nous leur aurions évidemment posé des questions concernant leur méthodologie et les critères qu'ils ont choisi. De plus, nous aurions voulu évoquer des comparaisons avec d'autres méthodes de classement, comme l'élection de la capitale européenne, qui nous permet de nous demander si nous devrions classer ou mesurer les villes ? Evidemment, nous aurions également évoqué les critiques et limitations reliées à ce genre de classement, tout en demandant comment s’assurer de l’éthique dans la collecte de données culturelles et comment éviter les biais culturels ou stéréotypes? Pour conclure, l'impact du classement ainsi que des perspectvies futures auraient été abordées : quelle est l'influence de ce genre de classement sur les politiques culturelles locales et sur le tourisme, et comment pourraient évoluer les classements dans le futur? 
+
+Ces questionnements nous permettent d'achever notre réflexion et d'ouvrir le champ pour de futures enquêtes concernant la mesure de la culture dans les villes. 
+
+
+
+</div>
+
 ## Bibliographie
 
 sources
 
 ### Camille Delmotte, Marguerite Demoures, Louise Lejeune, Mohamed Mebarki, et Remi Guezofje.
+
 
 
 
