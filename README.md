@@ -2,7 +2,7 @@
 
 <div 
 style="text-align: 
-center">
+justify">
 
 
 ## Introduction 
