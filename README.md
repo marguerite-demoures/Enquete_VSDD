@@ -156,7 +156,13 @@ justify">
 
 Bien que l'article mentionne ses sources concernant chaque métrique, il peut y avoir des divergences dans les méthodes de collecte des données et la fiabilité de ces sources peut varier. En outre, l'utilisation de sources aussi diversifiées pour chaque mesure peut entraîner des incohérences ou des biais dans le classement final. De plus, lors de nos recherches, nous avons trouvé plusieurs incohérences sur les sites web sourcés, notamment celui concernant le taux de retour dans la ville après une première visite : ce taux n'était pas disponible pour toutes les villes du classement, mais seulement pour certaines d'entre elles. Cela nous indiquerait-il alors que ce taux n'aurait été pris en compte que pour les villes dont la donnée était disponible? Le manque de transparence et d'informations concernant l'usage de ces données ne donne pas une très bonne image au classement.
 
-_Biais du sponsor ou du site_: Les données étant attribuées majoritairement à des entreprises à but lucratif et non à des instituts de recherche, celles-ci pourraient avoir leurs propres intérêts commerciaux, ce qui pourrait influencer la sélection ou la présentation des villes. De plus, certains événements culturels pourraient ne pas être représentés si leur tickets ne sont pas vendus sur ces sites.
+</div>
+
+_Biais du sponsor ou du site_: 
+<div 
+style="text-align: 
+justify">
+Les données étant attribuées majoritairement à des entreprises à but lucratif et non à des instituts de recherche, celles-ci pourraient avoir leurs propres intérêts commerciaux, ce qui pourrait influencer la sélection ou la présentation des villes. De plus, certains événements culturels pourraient ne pas être représentés si leur tickets ne sont pas vendus sur ces sites.
 
 </div>
 
