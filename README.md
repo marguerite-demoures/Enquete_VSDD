@@ -1,27 +1,42 @@
 # Enquête collective, Vie sociale des données 
 
-<div 
-style="text-align: 
-justify">
 
 
 ## Introduction 
 ### La mesure de la culture 
 
+<div 
+style="text-align: 
+justify">
+
 La société essaie de mesurer la culture de plusieurs façons, car elle est très diversifiée et complexe. Les gens essaient de comprendre et de décrire la culture en regardant les traditions, les arts, les langues, et même la façon dont les gens vivent. Mais la culture est souvent difficile à mesurer car c’est comme le définissait Desrosières (Genèses, 2001) une mesure latente qui est impossible à atteindre directement, qu’on ne peut pas mesurer physiquement. Puisque selon le chercheur, 
-> Quantifier, c'est convenir puis mesurer
-, la culture est un objet qui doit être définie avant d’être mesurée.
+
+</div>
+
+> Quantifier, c'est convenir puis mesurer, la culture est un objet qui doit être définie avant d’être mesurée.
 
 De nombreuses définitions structurent son sens, plus ou moins officiellement. L’UNESCO définit la culture comme suit :
 > La culture, dans son sens le plus large, est considérée comme l'ensemble des traits distinctifs, spirituels et matériels, intellectuels et affectifs, qui caractérisent une société ou un groupe social. Elle englobe, outre les arts et les lettres, les modes de vie, les droits fondamentaux de l'être humain, les systèmes de valeurs, les traditions et les croyances.
+
+<div 
+style="text-align: 
+justify">
+
 Par ailleurs, l'UNESCO a également établi plusieurs listes visant à protéger et à promouvoir le patrimoine culturel immatériel à travers le monde, la plus connue étant la Liste représentative du patrimoine culturel immatériel de l'humanité.
 
 Il existe plusieurs mesures de cette culture, notamment à travers des élections officielles comme l’élection de la capitale culturelle européenne ou d’autres classements à différentes échelles (nationale, européenne, continentale, mondiale...). Nous nous pencherons ici sur un classement publié par le bureau d’Amsterdam de l'entreprise Le Hub Social, The Social Hub en anglais, intitulé "Europe’s Top 10 Cities for Culture", publié le 15 Juin 2023.
 
+</div>
 
 ## Qui a créé ce jeu de données ? À quelles fins ?
 
+<div 
+style="text-align: 
+justify">
+
 The Social Hub, anciennement The Student Hotel, est une chaîne d'hôtels qui revendique un modèle d'"hospitalité hybride". La restriction de leur classement aux villes européennes peut s'expliquer par leur envie d'inciter au tourisme en Europe, dans des villes où la chaîne est implantée, ce qui représente donc un atout commercial pour eux. L'introduction du classement est formulée ainsi :
+
+</div>
 
 > If you’re the kind of traveller who likes to take full advantage of the cultural offerings in whatever new city you’re exploring, this one’s for you. We’ve put together a list of Europe’s top cultural hotspots for your next trip, taking you on a tour of the very best gems the continent has to offer.
 
@@ -32,7 +47,7 @@ Une accroche dynamique qui permettrait les voyageurs à déjà envisager leur pr
 Les auteurs du classement ont établi une liste de 7 métriques pour classer les villes européennes.
 
 1. __Nombre de musées__
-   
+
    - Le nombre de musées présents dans chaque ville a été évalué à travers le site [Whichmuseum](whichmuseum.com).
 Ce site répertorie les musées afin de vous aider à trouver des musées partout dans le monde, et vous pouvez retrouver les meilleurs musées par pays dans la catégorie "Best museums". Les musées y sont triés par catégorie (art et design, histoire et anthropologie, science et technologie, nature...) ou par d'autres critères comme leur prix (ou leur gratuité), ou encore leur accessibilité aux personnes handicapées. 
    - La ville du classement abritant le plus de musées se trouve être Londres, avec 235 musées!
@@ -77,8 +92,13 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
    - Il est important de noter que Viagogo a fait l'objet de controverses et de critiques dans le passé, notamment en ce qui concerne la transparence, les prix et la revente de billets. Certains consommateurs ont fait état d'expériences négatives avec la plateforme.
   
 ### Méthodologie 
+<div 
+style="text-align: 
+justify">
 
 Les auteurs ont analysé les [50 villes européennes les mieux notées](https://www.worldsbestcities.com/rankings/europes-best-cities/) et les ont comparé grâce à leur série de 7 indiacteurs. Chaque indicateur a reçu une note sur 10 pour créer l'indice final. 
+
+</div>
 
 ### Résultats 
 
@@ -90,45 +110,81 @@ Les auteurs ont analysé les [50 villes européennes les mieux notées](https://
 
 ## Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
 
+<div 
+style="text-align: 
+justify">
+
 Ce jeu de données concernant le top 10 des meilleures villes européennes pour la culture semble informatif, mais il s'accompagne de plusieurs limitations et critiques. Il nous est important de rappeler que rien n'est neutre et objectif, et que le choix des sources et du périmètre des données révèlent beaucoup sur le classement évalué ici. 
+
+</div>
 
 * __Subjectivité des critères de ce classement__
 
+<div 
+style="text-align: 
+justify">
+
 Nous pouvons tout d'abord évidemment nous demander comment a-t-il été décidé que les critères utilisés par les auteurs seraient adaptés pour mesurer la culture d'une ville? Ceux-ci peuvent être subjectifs et ne pas représenter les préférences de tous les voyageurs. Des métriques telles que le nombre de musées, d'activités culturelles ou de sites patrimoniaux peuvent ne pas refléter toute l'expérience culturelle d'une ville. Nous avons notamment réfléchi au autres activités culturelles telles que les festivals qui ne rentraient pas en compte dans le classement, ou encore la fréquentation des jardins publics qui attirent tout de même de nombreux visiteurs chaque année.
 
+</div>
+
 * __Nature limitée des paramètres choisis__
+
+<div 
+style="text-align: 
+justify">
 
 La méthodologie se concentre principalement sur des mesures quantitatives telles que le nombre de musées, de théâtres et de sites patrimoniaux. Elle ne tient pas compte des aspects qualitatifs tels que la profondeur des expériences culturelles, le caractère unique des offres ou la diversité culturelle, qui sont subjectifs et plus difficiles à quantifier, mais essentiels pour comprendre la richesse culturelle. Une analyse qualitative au moyen d'interview ou de questionnaires de consommateurs aurait pu être ajoutée, et aurait grandement enrichi la qualité du classement selon nous.
 
 _Image incomplète_ : L'ensemble des données ne couvre pas tous les aspects de la culture de manière exhaustive. Il se concentre sur les musées, les théâtres, les sites patrimoniaux et les restaurants étoilés, mais peut omettre d'autres éléments culturels essentiels tels que les festivals locaux, l'art de la rue, les scènes musicales ou les traditions culturelles, comme évoqué précédemment.
 
+</div>
 
 * __Sources et fiabilité des données__
+
+<div 
+style="text-align: 
+justify">
 
 Bien que l'article mentionne ses sources concernant chaque métrique, il peut y avoir des divergences dans les méthodes de collecte des données et la fiabilité de ces sources peut varier. En outre, l'utilisation de sources aussi diversifiées pour chaque mesure peut entraîner des incohérences ou des biais dans le classement final. De plus, lors de nos recherches, nous avons trouvé plusieurs incohérences sur les sites web sourcés, notamment celui concernant le taux de retour dans la ville après une première visite : ce taux n'était pas disponible pour toutes les villes du classement, mais seulement pour certaines d'entre elles. Cela nous indiquerait-il alors que ce taux n'aurait été pris en compte que pour les villes dont la donnée était disponible? Le manque de transparence et d'informations concernant l'usage de ces données ne donne pas une très bonne image au classement.
 
 _Biais du sponsor ou du site_: Les données étant attribuées majoritairement à des entreprises à but lucratif et non à des instituts de recherche, celles-ci pourraient avoir leurs propres intérêts commerciaux, ce qui pourrait influencer la sélection ou la présentation des villes. De plus, certains événements culturels pourraient ne pas être représentés si leur tickets ne sont pas vendus sur ces sites.
 
+</div>
 
  * __Harmonisation de la temporalité des données__
+
+<div 
+style="text-align: 
+justify">
 
 
 L'ensemble de données n'est pas précis dans la temporalité de ces métriques: de quelle date à quelle date ont été réalisés les classements? Le mélange de sources permet la diversification des informations mais aussi un manque d’harmonisation dans les éléments, de sorte que la pertinence des informations peut varier dans le temps.
 
+</div>
 
  * __Manque de représentation régionale__
 
+<div 
+style="text-align: 
+justify">
+
 L'ensemble des données peut être biaisé en faveur de villes européennes bien connues, négligeant potentiellement des villes plus petites ou moins populaires qui pourraient offrir des expériences culturelles tout aussi riches.
 
-
+</div>
 
 ## Quelles réalités ces données/indicateurs sont-ils censés représenter ?
+
+<div 
+style="text-align: 
+justify">
 
 
 Les données et indicateurs présentés dans ce classement sont censés représenter la richesse culturelle des villes européennes. Les auteurs ont utilisé plusieurs critères quantitatifs pour évaluer la diversité et l'intensité des expériences culturelles offertes par chaque ville. Les réalités que ces données sont censées représenter incluent plusieurs perspectives. Nous retrouvons d'abord l'__abondance des institutions culturelles__ de par lee nombre de musées, d'activités culturelles et historiques, ainsi que le nombre de sites classés au patrimoine mondial, qui sont des indicateurs visant à mesurer la présence d'institutions culturelles dans chaque ville. Ensuite, le prix moyen des billets d'entrée permet d'évaluer l'__accessibilité financière__ aux activités culturelles, offrant ainsi une perspective sur la disponibilité culturelle pour différents budgets. Le nombre de restaurants étoilés par le Guide Michelin donne une indication sur la __qualité de la scène gastronomique__ de chaque ville. Le taux de retour des visiteurs après une première visite reflète l'__attrait persistant d'une ville__, indiquant si les expériences culturelles initiales ont incité les visiteurs à revenir, ou non. Enfin, le nombre d'événements théâtraux mesuré par la plateforme Viagogo offre un aperçu de la __vie théâtrale__ de chaque ville.
 
 Globalement, ce classement vise à guider les voyageurs désireux de découvrir des expériences culturelles en mettant en avant des villes connues pour leur importance historique, leur richesse artistique et la diversité de leurs activités culturelles. L'objectif est d'offrir aux voyageurs un aperçu des villes qui excellent dans l'offre d'expériences culturelles diverses, répondant aux intérêts pour l'art, l'histoire, le théâtre, la gastronomie, et plus encore. Les données utilisées visent à aider les passionnés de culture à planifier leurs voyages en présentant des villes offrant un large éventail d'attractions et d'expériences culturelles. Ce classement reflète une sélection de villes basée sur des aspects culturels spécifiques mesurés par les paramètres fournis, dans le but de guider les voyageurs à la recherche d'expériences culturelles immersives au cours de leurs aventures européennes.
 
+</div>
 
 ## Bibliographie
 
@@ -136,7 +192,6 @@ sources
 
 ### Camille Delmotte, Marguerite Demoures, Louise Lejeune, Mohamed Mebarki, et Remi Guezofje.
 
-</div>
 
 
 
