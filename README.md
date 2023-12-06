@@ -138,7 +138,7 @@ Pour l’essentiel, il est discuté par une poignée de sites et médias consacr
 
 <br>
 
-<p align="justify">L’article du LDN titre "Study reveals best cities for culture". La formulation est intéressante : par contraste avec d’autres articles utilisant le mot "crowned" – qui connote plutôt l’idée d’un choix réalisé par une entité – le mot "reveals" implique l’idée qu’une hiérarchie des villes préexiste à l’étude, qui vient « révéler » cette réalité objective.</p>
+<p align="justify">L’article du LDN titre "Study reveals best cities for culture". La formulation est intéressante : par contraste avec d’autres articles utilisant le mot "crowned" – qui connote plutôt l’idée d’un choix réalisé par une entité – le mot "reveals" implique l’idée qu’une hiérarchie des villes préexiste à l’étude, qui vient "révéler" cette réalité objective.</p>
 
 <br>
 
