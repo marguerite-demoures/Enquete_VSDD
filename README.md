@@ -44,6 +44,9 @@ The Social Hub, anciennement The Student Hotel, est une chaîne d'hôtels qui re
 
 Une accroche dynamique qui permettrait aux voyageurs de déjà envisager leur prochain voyage suite à leur lecture du classement.
 
+![logo tsh](https://github.com/camilledlmt/Enquete_VSDD/assets/146014469/e893a287-aeda-4bd1-a989-c7e471f91640)
+
+
 ## Les catégories présentées
 
 Les auteurs du classement ont établi une liste de 7 métriques pour classer les villes européennes:
