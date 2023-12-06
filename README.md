@@ -26,7 +26,7 @@ justify">
 
 Par ailleurs, l'UNESCO a également établi plusieurs listes visant à protéger et à promouvoir le patrimoine culturel immatériel à travers le monde, la plus connue étant la Liste représentative du patrimoine culturel immatériel de l'humanité.
 
-Il existe plusieurs mesures de cette culture, notamment à travers des élections officielles comme l’élection de la capitale culturelle européenne ou d’autres classements à différentes échelles (nationale, européenne, continentale, mondiale...). Nous nous pencherons ici sur un classement publié par le bureau d’Amsterdam de l'entreprise Le Hub Social, The Social Hub en anglais, intitulé "Europe’s Top 10 Cities for Culture", publié le 15 Juin 2023.
+Il existe plusieurs mesures de cette culture, notamment à travers des élections officielles comme l’élection de la capitale culturelle européenne ou d’autres classements à différentes échelles (nationale, européenne, continentale, mondiale...). Nous nous pencherons ici sur un classement publié par le bureau d’Amsterdam de l'entreprise Le Hub Social, The Social Hub en anglais, intitulé "Europe’s Top 10 Cities for Culture", publié le 15 Juin 2023 sur leur blog. Leur blog donne un aperçu des activités de leur communauté et aspire à éveiller l'intérêt des lecteurs sur divers sujets, de la durabilité et de l'impact aux voyages et à l'aventure.
 
 </div>
 
