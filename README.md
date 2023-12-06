@@ -127,6 +127,32 @@ Voici le tableau partagé par The Social Hub :
 
 ## Les usages du jeu de donnée
 
+<div 
+style="text-align: 
+justify">
+   
+<br> 
+Le classement est une publication récente (juin 2023) qui suscite pour l’instant assez peu de réactions.
+
+<br>
+
+Pour l’essentiel, il est discuté par une poignée de sites et médias consacrés à Londres, pour mentionner, sans rentrer dans les détails, que la ville remporte la première place. Ainsi le classement fait l’objet d’un article sur le site du [London Daily News](https://www.londondaily.news/europes-best-cities-for-culture/), sur le blog de tourisme anglais [That’s Up](https://thatsup.co.uk/london/article/london-is-crowned-europes-top-city-for-culture/), et sur le blog de voyage, [TimeOut](https://www.timeout.com/london/news/london-has-been-crowned-the-best-city-in-europe-for-culture-062323). Ce dernier répertorie une centaine de villes, mais l’article sur le classement de Social Hub n’apparaît que dans la section « Londres » du site. Le classement est donc essentiellement mobilisé comme une marque de prestige pour la ville.
+
+<br>
+
+L’article du LDN titre « Study reveals best cities for culture”. La formulation est intéressante : par contraste avec d’autres articles utilisant le mot « crowned » – qui connote plutôt l’idée d’un choix réalisé par une entité – le mot « reveals » implique l’idée qu’une hiérarchie des villes préexiste à l’étude, qui vient « révéler » cette réalité objective.
+
+<br>
+
+
+En dehors des médias anglais, un article du Figaro titre « Paris classée seulement troisième meilleure ville culturelle d’Europe ». Le quotidien conservateur discute brièvement, sur le ton de la surprise, la position qu’occupe la capitale française « malgré ses 131 musées », et « alors que la France est la première destination touristique mondiale ». L’article est court et, sans faire l’objet d’une analyse approfondie, fait apparaître cette troisième place comme un échec. L’article critique, en filigrane, aussi bien une offre culturelle parisienne « en deçà de ses homologues anglaises et allemandes », et un prix moyen des sorties culturelles trop élevé. Contrairement aux articles anglais, l’article du Figaro relève les prix moyens des sorties culturelles d’après Social Hub, ne manquant pas de souligner les 65€ en moyenne pour Londres, comparés à 28€ en moyenne pour Berlin, et 49€ pour Paris. Ces chiffres permettent à la fois une critique de Londres, relativisant sa première place, mais aussi d’esquisser une critique de l’offre culturelle parisienne, et peut-être une voie possible de progression. L’article souligne également que Paris « reste première » s’agissant du nombre de restaurants étoilés.   
+
+<br>
+
+
+L’article ne livre pas d’analyse politique explicite, mais on peut y lire une piqûre émotionnelle à la fierté française. On y retrouve la dynamique explorée par la géopolitologue Béatrice Giblin dans son livre Le Paradoxe Français, entre fierté nationale et hantise du déclin (2017) : le patriotisme à la française prend souvent la forme d’une réassertion constante et inquiète de son « exceptionnalisme culturel ». 
+
+</div>
 
 ## Limites et critiques 
 
