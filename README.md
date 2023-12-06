@@ -28,7 +28,7 @@ Il existe plusieurs mesures de cette culture, notamment à travers des élection
 
 </div>
 
-## Qui a créé ce jeu de données ? À quelles fins ?
+## Création du jeu de données
 
 <div 
 style="text-align: 
@@ -42,7 +42,7 @@ The Social Hub, anciennement The Student Hotel, est une chaîne d'hôtels qui re
 
 Une accroche dynamique qui permettrait aux voyageurs de déjà envisager leur prochain voyage suite à leur lecture du classement.
 
-## Quelles catégories sont utilisées pour le représenter ?
+## Les catégories présentées
 
 Les auteurs du classement ont établi une liste de 7 métriques pour classer les villes européennes:
 
@@ -109,10 +109,10 @@ Voici le tableau partagé par The Social Hub :
 <img width="641" alt="results" src="https://github.com/camilledlmt/Enquete_VSDD/assets/146014469/b139f3c0-9560-4c74-ba76-edb61c48411f">
 
 
-## Quels sont les usages de ce jeu de données ?
+## Les usages du jeu de donnée
 
 
-## Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
+## Limites et critiques 
 
 
 <div 
@@ -184,13 +184,14 @@ L'ensemble des données peut être biaisé en faveur de villes européennes bien
 </div>
 
 
-## Quelles réalités ces données/indicateurs sont-ils censés représenter ?
+## Quelles réalités ces indicateurs sont-ils censés représenter ?
 
 <div 
 style="text-align: 
 justify">
 
 Les données et indicateurs présentés dans ce classement sont censés représenter la richesse culturelle des villes européennes. Les auteurs ont utilisé plusieurs critères quantitatifs pour évaluer la diversité et l'intensité des expériences culturelles offertes par chaque ville. Les réalités que ces données sont censées représenter incluent plusieurs perspectives. Nous retrouvons d'abord l'abondance des institutions culturelles de par lee nombre de musées, d'activités culturelles et historiques, ainsi que le nombre de sites classés au patrimoine mondial, qui sont des indicateurs visant à mesurer la présence d'institutions culturelles dans chaque ville. Ensuite, le prix moyen des billets d'entrée permet d'évaluer l'accessibilité financière aux activités culturelles, offrant ainsi une perspective sur la disponibilité culturelle pour différents budgets. Le nombre de restaurants étoilés par le Guide Michelin donne une indication sur la qualité de la scène gastronomique de chaque ville. Le taux de retour des visiteurs après une première visite reflète l'attrait persistant d'une ville, indiquant si les expériences culturelles initiales ont incité les visiteurs à revenir, ou non. Enfin, le nombre d'événements théâtraux mesuré par la plateforme Viagogo offre un aperçu de la vie théâtrale de chaque ville.
+
 </div>
 
 
