@@ -1,6 +1,6 @@
 # Enquête collective, Vie sociale des données 
 
- 
+<div style="text-align: right">
 
 
 ## Introduction 
@@ -134,7 +134,7 @@ sources
 
 ### Camille Delmotte, Marguerite Demoures, Louise Lejeune, Mohamed Mebarki, et Remi Guezofje.
 
-
+</div>
 
 
 
