@@ -92,8 +92,7 @@ Ce jeu de données concernant le top 10 des meilleures villes européennes pour 
 
 * __Subjectivité des critères de ce classement__
 
-Nous pouvons tout d'abord évidemment nous demander comment a-t-il été décidé que les critères utilisés par les auteurs seraien<img width="641" alt="results" src="https://github.com/camilledlmt/Enquete_VSDD/assets/146014469/33f4b7bd-12a0-4313-8ee5-13caf4cdf437">
-t adaptés pour mesurer la culture d'une ville? Ceux-ci peuvent être subjectifs et ne pas représenter les préférences de tous les voyageurs. Des métriques telles que le nombre de musées, d'activités culturelles ou de sites patrimoniaux peuvent ne pas refléter toute l'expérience culturelle d'une ville. Nous avons notamment réfléchi au autres activités culturelles telles que les festivals qui ne rentraient pas en compte dans le classement, ou encore la fréquentation des jardins publics qui attirent tout de même de nombreux visiteurs chaque année.
+Nous pouvons tout d'abord évidemment nous demander comment a-t-il été décidé que les critères utilisés par les auteurs seraient adaptés pour mesurer la culture d'une ville? Ceux-ci peuvent être subjectifs et ne pas représenter les préférences de tous les voyageurs. Des métriques telles que le nombre de musées, d'activités culturelles ou de sites patrimoniaux peuvent ne pas refléter toute l'expérience culturelle d'une ville. Nous avons notamment réfléchi au autres activités culturelles telles que les festivals qui ne rentraient pas en compte dans le classement, ou encore la fréquentation des jardins publics qui attirent tout de même de nombreux visiteurs chaque année.
 
 * __Nature limitée des paramètres choisis__
 
@@ -133,7 +132,7 @@ Globalement, ce classement vise à guider les voyageurs désireux de découvrir 
 
 sources
 
-## Camille Delmotte, Marguerite Demoures, Louise Lejeune, Mohamed Mebarki, et Remi Guezofje.
+### Camille Delmotte, Marguerite Demoures, Louise Lejeune, Mohamed Mebarki, et Remi Guezofje.
 
 
 
