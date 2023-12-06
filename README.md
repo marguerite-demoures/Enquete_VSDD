@@ -118,6 +118,7 @@ Ce jeu de données concernant le top 10 des meilleures villes européennes pour 
 
 </div>
 
+
 * __Subjectivité des critères de ce classement__
 
 <div 
@@ -127,6 +128,7 @@ justify">
 Nous pouvons tout d'abord évidemment nous demander comment a-t-il été décidé que les critères utilisés par les auteurs seraient adaptés pour mesurer la culture d'une ville? Ceux-ci peuvent être subjectifs et ne pas représenter les préférences de tous les voyageurs. Des métriques telles que le nombre de musées, d'activités culturelles ou de sites patrimoniaux peuvent ne pas refléter toute l'expérience culturelle d'une ville. Nous avons notamment réfléchi au autres activités culturelles telles que les festivals qui ne rentraient pas en compte dans le classement, ou encore la fréquentation des jardins publics qui attirent tout de même de nombreux visiteurs chaque année.
 
 </div>
+
 
 * __Nature limitée des paramètres choisis__
 
@@ -140,6 +142,7 @@ _Image incomplète_ : L'ensemble des données ne couvre pas tous les aspects de 
 
 </div>
 
+
 * __Sources et fiabilité des données__
 
 <div 
@@ -152,6 +155,7 @@ _Biais du sponsor ou du site_: Les données étant attribuées majoritairement �
 
 </div>
 
+
  * __Harmonisation de la temporalité des données__
 
 <div 
@@ -163,6 +167,7 @@ L'ensemble de données n'est pas précis dans la temporalité de ces métriques:
 
 </div>
 
+
  * __Manque de représentation régionale__
 
 <div 
@@ -173,6 +178,7 @@ L'ensemble des données peut être biaisé en faveur de villes européennes bien
 
 </div>
 
+
 ## Quelles réalités ces données/indicateurs sont-ils censés représenter ?
 
 <div 
@@ -180,6 +186,8 @@ style="text-align:
 justify">
 
 Les données et indicateurs présentés dans ce classement sont censés représenter la richesse culturelle des villes européennes. Les auteurs ont utilisé plusieurs critères quantitatifs pour évaluer la diversité et l'intensité des expériences culturelles offertes par chaque ville. Les réalités que ces données sont censées représenter incluent plusieurs perspectives. Nous retrouvons d'abord l'abondance des institutions culturelles de par lee nombre de musées, d'activités culturelles et historiques, ainsi que le nombre de sites classés au patrimoine mondial, qui sont des indicateurs visant à mesurer la présence d'institutions culturelles dans chaque ville. Ensuite, le prix moyen des billets d'entrée permet d'évaluer l'accessibilité financière aux activités culturelles, offrant ainsi une perspective sur la disponibilité culturelle pour différents budgets. Le nombre de restaurants étoilés par le Guide Michelin donne une indication sur la qualité de la scène gastronomique de chaque ville. Le taux de retour des visiteurs après une première visite reflète l'attrait persistant d'une ville, indiquant si les expériences culturelles initiales ont incité les visiteurs à revenir, ou non. Enfin, le nombre d'événements théâtraux mesuré par la plateforme Viagogo offre un aperçu de la vie théâtrale de chaque ville.
+
+*
 
 Globalement, ce classement vise à guider les voyageurs désireux de découvrir des expériences culturelles en mettant en avant des villes connues pour leur importance historique, leur richesse artistique et la diversité de leurs activités culturelles. L'objectif est d'offrir aux voyageurs un aperçu des villes qui excellent dans l'offre d'expériences culturelles diverses, répondant aux intérêts pour l'art, l'histoire, le théâtre, la gastronomie, et plus encore. Les données utilisées visent à aider les passionnés de culture à planifier leurs voyages en présentant des villes offrant un large éventail d'attractions et d'expériences culturelles. Ce classement reflète une sélection de villes basée sur des aspects culturels spécifiques mesurés par les paramètres fournis, dans le but de guider les voyageurs à la recherche d'expériences culturelles immersives au cours de leurs aventures européennes.
 
