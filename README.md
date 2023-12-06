@@ -51,12 +51,16 @@ Une accroche dynamique qui permettrait aux voyageurs de déjà envisager leur pr
 
 Les auteurs du classement ont établi une liste de 7 métriques pour classer les villes européennes:
 
+<br>
+
 
 1. __Nombre de musées__
 
    - Le nombre de musées présents dans chaque ville a été évalué à travers le site [Whichmuseum](whichmuseum.com).
 Ce site répertorie les musées afin de vous aider à trouver des musées partout dans le monde, et vous pouvez retrouver les meilleurs musées par pays dans la catégorie "Best museums". Les musées y sont triés par catégorie (art et design, histoire et anthropologie, science et technologie, nature...) ou par d'autres critères comme leur prix (ou leur gratuité), ou encore leur accessibilité aux personnes handicapées. 
    - La ville du classement abritant le plus de musées se trouve être Londres, avec 235 musées!
+  
+<br>
 
 
 2. __Nombre d'activités culturelles et historiques__
@@ -65,17 +69,19 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
    - Afin de quantifier le nombre d'activités culturelles et historiques offertes par les villes du classement, les auteurs ont décidé d'utiliser la plateforme [GetYourGuide](getyourguide.com). GetYourGuide est une plateforme en ligne populaire qui propose une variété de visites, d'activités et d'attractions aux voyageurs. Les utilisateurs peuvent parcourir et réserver des expériences dans diverses destinations à travers le monde grâce à ce site web. La plateforme couvre un large éventail d'activités, notamment des visites guidées, des billets à la carte, des excursions d'une journée, etc.
    - La ville du classement arrivant en tête de cette catégorie est Lisbonne, avec 795 activités! Paris est deuxième avec un nombre de 793, et Londres est sur la troisième marche du podium avec 791 activités culturelles et historiques.
 
-
+<br>
 
 3. __Prix moyen des billets d'entrée__
    
    - Concernant le prix moyen des billets d'entrée pour diverses activités, la même plateforme utilisée pour la métrique précédente a été utilisée. Dans le top 10 du classement, la ville avec l'entrée moyenne la plus chère est Londres avec 64.56€, alors que la ville présentant l'entrée la moins chère en moyenne est Lisbonne, avec 16.47€. 
 
+<br>
 
 4. __Nombre de sites classés au patrimoine mondial__
    
    - Cette catégorie a été établie à travers le patrimoine mondial de l'UNESCO. 
 
+<br>
 
 5. __Nombre de restaurants étoilés__
    
@@ -84,6 +90,7 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
      - ⭐⭐ Deux étoiles Michelin : Une excellente table, mérite le détour.
      - ⭐⭐⭐ Trois étoiles Michelin : Une cuisine exceptionnelle, vaut le voyage.
 
+<br>
 
 6. __Taux de retour des visiteurs après une première visite__
    
@@ -91,6 +98,7 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
    - Les utilisateurs peuvent accéder à des informations sur différentes villes, y compris des détails sur les espaces de coworking, la sécurité, les soins de santé, etc. Nomad List a pour but d'aider les gens à trouver des lieux adaptés à leurs préférences en matière de travail et de mode de vie.
    - Ceci dit, on y trouve également un pourcentage de taux de retour des visiteurs par ville. Par exemple, pour la ville de Paris, le site indique un taux de 15% de retour dans la ville après une première visite, contre 13% pour Vienne.
 
+<br>
 
 7. __Nombre d'événements théâtraux__
    
@@ -128,6 +136,7 @@ Ce jeu de données concernant le top 10 des meilleures villes européennes pour 
 
 </div>
 
+<br>
 
 * __Subjectivité des critères de ce classement__
 
@@ -139,6 +148,7 @@ Nous pouvons tout d'abord évidemment nous demander comment a-t-il été décid�
 
 </div>
 
+<br>
 
 * __Nature limitée des paramètres choisis__
 
@@ -148,10 +158,13 @@ justify">
 
 La méthodologie se concentre principalement sur des mesures quantitatives telles que le nombre de musées, de théâtres et de sites patrimoniaux. Elle ne tient pas compte des aspects qualitatifs tels que la profondeur des expériences culturelles, le caractère unique des offres ou la diversité culturelle, qui sont subjectifs et plus difficiles à quantifier, mais essentiels pour comprendre la richesse culturelle. Une analyse qualitative au moyen d'interview ou de questionnaires de consommateurs aurait pu être ajoutée, et aurait grandement enrichi la qualité du classement selon nous.
 
+<br> 
+
 _Image incomplète_ : L'ensemble des données ne couvre pas tous les aspects de la culture de manière exhaustive. Il se concentre sur les musées, les théâtres, les sites patrimoniaux et les restaurants étoilés, mais peut omettre d'autres éléments culturels essentiels tels que les festivals locaux, l'art de la rue, les scènes musicales ou les traditions culturelles, comme évoqué précédemment.
 
 </div>
 
+<br>
 
 * __Sources et fiabilité des données__
 
@@ -163,6 +176,8 @@ Bien que l'article mentionne ses sources concernant chaque métrique, il peut y 
 
 </div>
 
+<br>
+
 _Biais du sponsor ou du site_: 
 <div 
 style="text-align: 
@@ -171,6 +186,7 @@ Les données étant attribuées majoritairement à des entreprises à but lucrat
 
 </div>
 
+<br>
 
  * __Harmonisation de la temporalité des données__
 
@@ -183,6 +199,7 @@ L'ensemble de données n'est pas précis dans la temporalité de ces métriques:
 
 </div>
 
+<br>
 
  * __Manque de représentation régionale__
 
@@ -205,6 +222,7 @@ Les données et indicateurs présentés dans ce classement sont censés représe
 
 </div>
 
+<br>
 
 <div 
 style="text-align: 
@@ -224,14 +242,16 @@ Nous avons contacté diverses personnes dans l'espoir de conduire un ou plusieur
 
 </div>
 
+<br>
+
 <div 
 style="text-align: 
 justify">
 
 Cependant, nous souhaitons tout de même partager avec vous les questionnements que nous avions déjà formulés dans l'optique de ces entretiens, et qui nous semblent très pertinents de poser dans le cas de notre enqûete collective. 
-
+<br>
 Nous avions pour but de débuter nos entretiens avec des questions générales portant sur le contexte de la quantification de la culture, comme l'importance de la culture ainsi que sa mesure dans les villes. Par la suite, si nous avions réussi à rentrer en contact avec les créateurs du classement de The Social Hub, nous leur aurions évidemment posé des questions concernant leur méthodologie et les critères qu'ils ont choisi. De plus, nous aurions voulu évoquer des comparaisons avec d'autres méthodes de classement, comme l'élection de la capitale européenne, qui nous permet de nous demander si nous devrions classer ou mesurer les villes ? Evidemment, nous aurions également évoqué les critiques et limitations reliées à ce genre de classement, tout en demandant comment s’assurer de l’éthique dans la collecte de données culturelles et comment éviter les biais culturels ou stéréotypes? Pour conclure, l'impact du classement ainsi que des perspectvies futures auraient été abordées : quelle est l'influence de ce genre de classement sur les politiques culturelles locales et sur le tourisme, et comment pourraient évoluer les classements dans le futur? 
-
+<br>
 Ces questionnements nous permettent d'achever notre réflexion et d'ouvrir le champ pour de futures enquêtes concernant la mesure de la culture dans les villes. 
 
 
