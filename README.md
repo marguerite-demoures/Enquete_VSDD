@@ -54,7 +54,7 @@ Les auteurs du classement ont établi une liste de 7 métriques pour classer les
 <br>
 
 
-1. __Nombre de musées__
+A. __Nombre de musées__
 
    - Le nombre de musées présents dans chaque ville a été évalué à travers le site [Whichmuseum](whichmuseum.com).
 Ce site répertorie les musées afin de vous aider à trouver des musées partout dans le monde, et vous pouvez retrouver les meilleurs musées par pays dans la catégorie "Best museums". Les musées y sont triés par catégorie (art et design, histoire et anthropologie, science et technologie, nature...) ou par d'autres critères comme leur prix (ou leur gratuité), ou encore leur accessibilité aux personnes handicapées. 
@@ -63,7 +63,7 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
 
 
 
-2. __Nombre d'activités culturelles et historiques__
+B. __Nombre d'activités culturelles et historiques__
 
    
    - Afin de quantifier le nombre d'activités culturelles et historiques offertes par les villes du classement, les auteurs ont décidé d'utiliser la plateforme [GetYourGuide](getyourguide.com). GetYourGuide est une plateforme en ligne populaire qui propose une variété de visites, d'activités et d'attractions aux voyageurs. Les utilisateurs peuvent parcourir et réserver des expériences dans diverses destinations à travers le monde grâce à ce site web. La plateforme couvre un large éventail d'activités, notamment des visites guidées, des billets à la carte, des excursions d'une journée, etc.
@@ -71,19 +71,19 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
 
 
 
-3. __Prix moyen des billets d'entrée__
+C. __Prix moyen des billets d'entrée__
    
    - Concernant le prix moyen des billets d'entrée pour diverses activités, la même plateforme utilisée pour la métrique précédente a été utilisée. Dans le top 10 du classement, la ville avec l'entrée moyenne la plus chère est Londres avec 64.56€, alors que la ville présentant l'entrée la moins chère en moyenne est Lisbonne, avec 16.47€.   
 
 
 
-4. __Nombre de sites classés au patrimoine mondial__
+D. __Nombre de sites classés au patrimoine mondial__
    
    - Cette catégorie a été établie à travers le patrimoine mondial de l'UNESCO.   
 
 
 
-5. __Nombre de restaurants étoilés__
+E. __Nombre de restaurants étoilés__
    
    - Selon le Guide Michelin qui utilise une échelle d'étoiles pour évaluer la qualité des restaurants, attribuant jusqu'à trois étoiles en fonction de l'excellence de la cuisine, de la créativité, du savoir-faire, de la qualité des ingrédients et du rapport qualité-prix. Les étoiles sont généralement attribuées de la sorte :
      - ⭐ Une étoile Michelin : Une très bonne table, mérite un détour.
@@ -92,7 +92,7 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
 
 <br>
 
-6. __Taux de retour des visiteurs après une première visite__
+F. __Taux de retour des visiteurs après une première visite__
    
    - Ce taux de retour a été trouvé sur le site web [NomadList](nomadlist.com). Nomad List est un site web qui fournit des informations et des outils aux "nomades numériques" et aux travailleurs à distance. Le site offre des informations sur différentes villes du monde, aidant les individus à choisir des destinations basées sur des facteurs tels que le coût de la vie, la vitesse d'Internet, la météo et d'autres critères pertinents pour le travail à distance.
    - Les utilisateurs peuvent accéder à des informations sur différentes villes, y compris des détails sur les espaces de coworking, la sécurité, les soins de santé, etc. Nomad List a pour but d'aider les gens à trouver des lieux adaptés à leurs préférences en matière de travail et de mode de vie.
@@ -100,7 +100,7 @@ Ce site répertorie les musées afin de vous aider à trouver des musées partou
 
 <br>
 
-7. __Nombre d'événements théâtraux__
+G. __Nombre d'événements théâtraux__
    
    - La quantification de cette septième et dernière métrique s'est faite par la plateforme [Viagogo](viagogo.com). Viagogo est un marketplace en ligne qui permet d'acheter et de vendre des billets pour divers événements, notamment des concerts, des manifestations sportives, des représentations théâtrales, etc. Les utilisateurs peuvent naviguer sur la plateforme pour trouver des billets pour des événements spécifiques et les acheter aux vendeurs.
    - Il est important de noter que Viagogo a fait l'objet de controverses et de critiques dans le passé, notamment en ce qui concerne la transparence, les prix et la revente de billets. Certains consommateurs ont fait état d'expériences négatives avec la plateforme.
