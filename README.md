@@ -113,7 +113,7 @@ Voici le tableau partagé par The Social Hub :
 
 
 ## Quelles sont les limites ou les critiques rencontrées par ce jeu données ?
-<img width="821" alt="categories" src="https://github.com/camilledlmt/Enquete_VSDD/assets/146014469/783f085e-611f-45ff-84e7-b34864d637a0">
+
 
 <div 
 style="text-align: 
