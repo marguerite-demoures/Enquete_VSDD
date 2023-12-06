@@ -60,28 +60,28 @@ Les auteurs du classement ont établi une liste de 7 métriques pour classer les
 Ce site répertorie les musées afin de vous aider à trouver des musées partout dans le monde, et vous pouvez retrouver les meilleurs musées par pays dans la catégorie "Best museums". Les musées y sont triés par catégorie (art et design, histoire et anthropologie, science et technologie, nature...) ou par d'autres critères comme leur prix (ou leur gratuité), ou encore leur accessibilité aux personnes handicapées. 
    - La ville du classement abritant le plus de musées se trouve être Londres, avec 235 musées!
   
-<br>
+
 
 
 2. __Nombre d'activités culturelles et historiques__
 
    
    - Afin de quantifier le nombre d'activités culturelles et historiques offertes par les villes du classement, les auteurs ont décidé d'utiliser la plateforme [GetYourGuide](getyourguide.com). GetYourGuide est une plateforme en ligne populaire qui propose une variété de visites, d'activités et d'attractions aux voyageurs. Les utilisateurs peuvent parcourir et réserver des expériences dans diverses destinations à travers le monde grâce à ce site web. La plateforme couvre un large éventail d'activités, notamment des visites guidées, des billets à la carte, des excursions d'une journée, etc.
-   - La ville du classement arrivant en tête de cette catégorie est Lisbonne, avec 795 activités! Paris est deuxième avec un nombre de 793, et Londres est sur la troisième marche du podium avec 791 activités culturelles et historiques.
+   - La ville du classement arrivant en tête de cette catégorie est Lisbonne, avec 795 activités! Paris est deuxième avec un nombre de 793, et Londres est sur la troisième marche du podium avec 791 activités culturelles et historiques.  
 
-<br>
+
 
 3. __Prix moyen des billets d'entrée__
    
-   - Concernant le prix moyen des billets d'entrée pour diverses activités, la même plateforme utilisée pour la métrique précédente a été utilisée. Dans le top 10 du classement, la ville avec l'entrée moyenne la plus chère est Londres avec 64.56€, alors que la ville présentant l'entrée la moins chère en moyenne est Lisbonne, avec 16.47€. 
+   - Concernant le prix moyen des billets d'entrée pour diverses activités, la même plateforme utilisée pour la métrique précédente a été utilisée. Dans le top 10 du classement, la ville avec l'entrée moyenne la plus chère est Londres avec 64.56€, alors que la ville présentant l'entrée la moins chère en moyenne est Lisbonne, avec 16.47€.   
 
-<br>
+
 
 4. __Nombre de sites classés au patrimoine mondial__
    
-   - Cette catégorie a été établie à travers le patrimoine mondial de l'UNESCO. 
+   - Cette catégorie a été établie à travers le patrimoine mondial de l'UNESCO.   
 
-<br>
+
 
 5. __Nombre de restaurants étoilés__
    
@@ -249,9 +249,13 @@ style="text-align:
 justify">
 
 Cependant, nous souhaitons tout de même partager avec vous les questionnements que nous avions déjà formulés dans l'optique de ces entretiens, et qui nous semblent très pertinents de poser dans le cas de notre enqûete collective. 
+
 <br>
+
 Nous avions pour but de débuter nos entretiens avec des questions générales portant sur le contexte de la quantification de la culture, comme l'importance de la culture ainsi que sa mesure dans les villes. Par la suite, si nous avions réussi à rentrer en contact avec les créateurs du classement de The Social Hub, nous leur aurions évidemment posé des questions concernant leur méthodologie et les critères qu'ils ont choisi. De plus, nous aurions voulu évoquer des comparaisons avec d'autres méthodes de classement, comme l'élection de la capitale européenne, qui nous permet de nous demander si nous devrions classer ou mesurer les villes ? Evidemment, nous aurions également évoqué les critiques et limitations reliées à ce genre de classement, tout en demandant comment s’assurer de l’éthique dans la collecte de données culturelles et comment éviter les biais culturels ou stéréotypes? Pour conclure, l'impact du classement ainsi que des perspectvies futures auraient été abordées : quelle est l'influence de ce genre de classement sur les politiques culturelles locales et sur le tourisme, et comment pourraient évoluer les classements dans le futur? 
+
 <br>
+
 Ces questionnements nous permettent d'achever notre réflexion et d'ouvrir le champ pour de futures enquêtes concernant la mesure de la culture dans les villes. 
 
 
