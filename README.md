@@ -110,7 +110,7 @@ G. __Nombre d'événements théâtraux__
 ### Méthodologie 
 
 
-Les auteurs ont analysé les [50 villes européennes les mieux notées](https://www.worldsbestcities.com/rankings/europes-best-cities/) et les ont comparé grâce à leur série de 7 indiacteurs. Chaque indicateur a reçu une note sur 10 pour créer l'indice final. 
+Les auteurs ont analysé les [50 villes européennes les mieux notées](https://www.worldsbestcities.com/rankings/europes-best-cities/) et les ont comparé grâce à leur série de 7 indicateurs. Chaque indicateur a reçu une note sur 10 pour créer l'indice final. 
 
 Pour référence, voici les catégories utilisées par le site web WorldsBestCities pour l'établissement de leur propre classement : 
 
